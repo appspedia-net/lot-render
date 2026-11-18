@@ -1,0 +1,58 @@
+name: Render video pieces
+
+run-name: Render ${{ inputs.project }} · ${{ inputs.label }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      project:
+        description: Folder under render/
+        required: true
+        default: thermo
+      chunks:
+        description: JSON list of [id, start, end]
+        required: true
+      label:
+        description: Label
+        required: false
+        default: pieces
+      drop_token:
+        description: Upload token
+        required: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        chunk: ${{ fromJSON(inputs.chunks) }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Software renderer + Godot
+        run: |
+          sudo apt-get update -qq >/dev/null
+          sudo apt-get install -y -qq mesa-vulkan-drivers xvfb ffmpeg libvulkan1 >/dev/null
+          mkdir -p ~/godot && cd ~/godot
+          curl -sSL -o g.zip https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_linux.x86_64.zip && unzip -q g.zip
+          sudo mkdir -p /home/claude/gd && sudo chown -R $USER /home/claude
+          ln -sfn $GITHUB_WORKSPACE/assets /home/claude/gd/assets
+          ln -sfn $GITHUB_WORKSPACE/render/${{ inputs.project }} /home/claude/gd/${{ inputs.project }}
+          nproc; free -g | head -2
+      - name: Render piece ${{ matrix.chunk[0] }}
+        env:
+          DROP_TOKEN: ${{ inputs.drop_token }}
+        run: |
+          echo "::add-mask::$DROP_TOKEN"
+          ID=${{ matrix.chunk[0] }}; T0=${{ matrix.chunk[1] }}; T1=${{ matrix.chunk[2] }}
+          N=$(python3 -c "print(round(($T1-$T0)*24))")
+          cd /home/claude/gd/${{ inputs.project }}
+          VK_ICD_FILENAMES=/usr/share/vulkan/icd.d/lvp_icd.json xvfb-run -a -s "-screen 0 1280x720x24" ~/godot/Godot_v4.7.2-stable_linux.x86_64 --path . --rendering-driver vulkan --write-movie /tmp/piece.avi --fixed-fps 24 --quit-after $N --resolution 1280x720 -- start=$T0 > /tmp/godot.log 2>&1 || true
+          grep -E "SCRIPT ERROR|BUILD" /tmp/godot.log | head -20
+          test -s /tmp/piece.avi
+          NAME=$(printf "%s_p%03d.mp4" ${{ inputs.project }} $ID)
+          ffmpeg -v error -y -i /tmp/piece.avi -frames:v $N -c:v libx264 -preset veryfast -crf 17 -pix_fmt yuv420p -r 24 -an /tmp/$NAME
+          ls -la /tmp/$NAME
+          for i in 1 2 3 4 5; do curl -sS --fail -T /tmp/$NAME -H "X-Drop-Token: $DROP_TOKEN" "https://imrashid.net/video-drop.php?name=$NAME" && break; sleep 10; done

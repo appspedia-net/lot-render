@@ -1,0 +1,3478 @@
+{
+"shots": [
+{
+"t0": 0.0,
+"t1": 6.4,
+"set": "pass_dawn",
+"v": 0,
+"seg": 0,
+"line": 1
+},
+{
+"t0": 6.4,
+"t1": 12.8,
+"set": "pass_dawn",
+"v": 1,
+"seg": 0,
+"line": 1
+},
+{
+"t0": 12.8,
+"t1": 18.772,
+"set": "pass_dawn",
+"v": 2,
+"seg": 0,
+"line": 2
+},
+{
+"t0": 18.772,
+"t1": 24.744,
+"set": "pass_dawn",
+"v": 3,
+"seg": 0,
+"line": 2
+},
+{
+"t0": 24.744,
+"t1": 30.122,
+"set": "pass_dawn",
+"v": 4,
+"seg": 0,
+"line": 3
+},
+{
+"t0": 30.122,
+"t1": 35.5,
+"set": "pass_dawn",
+"v": 5,
+"seg": 0,
+"line": 3
+},
+{
+"t0": 35.5,
+"t1": 43.832,
+"set": "persian_march",
+"v": 0,
+"seg": 1,
+"line": 4
+},
+{
+"t0": 43.832,
+"t1": 48.844,
+"set": "pass_dawn",
+"v": 0,
+"seg": 2,
+"line": 5
+},
+{
+"t0": 48.844,
+"t1": 53.856,
+"set": "pass_dawn",
+"v": 1,
+"seg": 2,
+"line": 5
+},
+{
+"t0": 53.856,
+"t1": 59.098,
+"set": "pass_dawn",
+"v": 2,
+"seg": 2,
+"line": 6
+},
+{
+"t0": 59.098,
+"t1": 64.34,
+"set": "pass_dawn",
+"v": 3,
+"seg": 2,
+"line": 6
+},
+{
+"t0": 64.34,
+"t1": 69.892,
+"set": "persia_court",
+"v": 0,
+"seg": 3,
+"line": 7
+},
+{
+"t0": 69.892,
+"t1": 75.444,
+"set": "persia_court",
+"v": 1,
+"seg": 3,
+"line": 7
+},
+{
+"t0": 75.444,
+"t1": 80.834,
+"set": "persia_court",
+"v": 2,
+"seg": 3,
+"line": 8
+},
+{
+"t0": 80.834,
+"t1": 86.224,
+"set": "persia_court",
+"v": 3,
+"seg": 3,
+"line": 8
+},
+{
+"t0": 86.224,
+"t1": 92.196,
+"set": "envoy_well",
+"v": 0,
+"seg": 4,
+"line": 9
+},
+{
+"t0": 92.196,
+"t1": 98.168,
+"set": "envoy_well",
+"v": 1,
+"seg": 4,
+"line": 9
+},
+{
+"t0": 98.168,
+"t1": 103.96,
+"set": "envoy_well",
+"v": 2,
+"seg": 4,
+"line": 10
+},
+{
+"t0": 103.96,
+"t1": 109.752,
+"set": "envoy_well",
+"v": 3,
+"seg": 4,
+"line": 10
+},
+{
+"t0": 109.752,
+"t1": 117.532,
+"set": "envoy_well",
+"v": 4,
+"seg": 4,
+"line": 11
+},
+{
+"t0": 117.532,
+"t1": 126.596,
+"set": "persia_court",
+"v": 0,
+"seg": 5,
+"line": 12
+},
+{
+"t0": 126.596,
+"t1": 131.584,
+"set": "persia_court",
+"v": 1,
+"seg": 5,
+"line": 13
+},
+{
+"t0": 131.584,
+"t1": 136.572,
+"set": "persia_court",
+"v": 2,
+"seg": 5,
+"line": 13
+},
+{
+"t0": 136.572,
+"t1": 141.896,
+"set": "persia_court",
+"v": 3,
+"seg": 5,
+"line": 14
+},
+{
+"t0": 141.896,
+"t1": 147.22,
+"set": "persia_court",
+"v": 4,
+"seg": 5,
+"line": 14
+},
+{
+"t0": 147.22,
+"t1": 152.79,
+"set": "persia_court",
+"v": 5,
+"seg": 5,
+"line": 15
+},
+{
+"t0": 152.79,
+"t1": 158.36,
+"set": "persia_court",
+"v": 6,
+"seg": 5,
+"line": 15
+},
+{
+"t0": 158.36,
+"t1": 164.74,
+"set": "persian_march",
+"v": 0,
+"seg": 6,
+"line": 16
+},
+{
+"t0": 164.74,
+"t1": 171.12,
+"set": "persian_march",
+"v": 1,
+"seg": 6,
+"line": 16
+},
+{
+"t0": 171.12,
+"t1": 176.57,
+"set": "persian_march",
+"v": 2,
+"seg": 6,
+"line": 17
+},
+{
+"t0": 176.57,
+"t1": 182.02,
+"set": "persian_march",
+"v": 3,
+"seg": 6,
+"line": 17
+},
+{
+"t0": 182.02,
+"t1": 187.5,
+"set": "hellespont",
+"v": 0,
+"seg": 7,
+"line": 18
+},
+{
+"t0": 187.5,
+"t1": 192.98,
+"set": "hellespont",
+"v": 1,
+"seg": 7,
+"line": 18
+},
+{
+"t0": 192.98,
+"t1": 202.332,
+"set": "hellespont",
+"v": 2,
+"seg": 7,
+"line": 19
+},
+{
+"t0": 202.332,
+"t1": 209.5,
+"set": "hellespont",
+"v": 3,
+"seg": 7,
+"line": 20
+},
+{
+"t0": 209.5,
+"t1": 215.544,
+"set": "hellespont",
+"v": 4,
+"seg": 7,
+"line": 21
+},
+{
+"t0": 215.544,
+"t1": 221.588,
+"set": "hellespont",
+"v": 5,
+"seg": 7,
+"line": 21
+},
+{
+"t0": 221.588,
+"t1": 226.45,
+"set": "hellespont",
+"v": 6,
+"seg": 7,
+"line": 22
+},
+{
+"t0": 226.45,
+"t1": 231.312,
+"set": "hellespont",
+"v": 7,
+"seg": 7,
+"line": 22
+},
+{
+"t0": 231.312,
+"t1": 239.992,
+"set": "persian_march",
+"v": 0,
+"seg": 8,
+"line": 23
+},
+{
+"t0": 239.992,
+"t1": 245.664,
+"set": "persian_march",
+"v": 1,
+"seg": 8,
+"line": 24
+},
+{
+"t0": 245.664,
+"t1": 251.336,
+"set": "persian_march",
+"v": 2,
+"seg": 8,
+"line": 24
+},
+{
+"t0": 251.336,
+"t1": 258.75,
+"set": "persian_march",
+"v": 3,
+"seg": 8,
+"line": 25
+},
+{
+"t0": 258.75,
+"t1": 266.164,
+"set": "persian_march",
+"v": 4,
+"seg": 8,
+"line": 25
+},
+{
+"t0": 266.164,
+"t1": 271.416,
+"set": "sparta_city",
+"v": 0,
+"seg": 9,
+"line": 26
+},
+{
+"t0": 271.416,
+"t1": 276.668,
+"set": "sparta_city",
+"v": 1,
+"seg": 9,
+"line": 26
+},
+{
+"t0": 276.668,
+"t1": 283.744,
+"set": "sparta_city",
+"v": 2,
+"seg": 9,
+"line": 27
+},
+{
+"t0": 283.744,
+"t1": 290.82,
+"set": "sparta_city",
+"v": 3,
+"seg": 9,
+"line": 27
+},
+{
+"t0": 290.82,
+"t1": 297.608,
+"set": "sparta_city",
+"v": 4,
+"seg": 9,
+"line": 28
+},
+{
+"t0": 297.608,
+"t1": 304.396,
+"set": "sparta_city",
+"v": 5,
+"seg": 9,
+"line": 28
+},
+{
+"t0": 304.396,
+"t1": 311.574,
+"set": "sparta_city",
+"v": 6,
+"seg": 9,
+"line": 29
+},
+{
+"t0": 311.574,
+"t1": 318.752,
+"set": "sparta_city",
+"v": 7,
+"seg": 9,
+"line": 29
+},
+{
+"t0": 318.752,
+"t1": 327.744,
+"set": "agoge",
+"v": 0,
+"seg": 10,
+"line": 30
+},
+{
+"t0": 327.744,
+"t1": 332.852,
+"set": "agoge",
+"v": 1,
+"seg": 10,
+"line": 31
+},
+{
+"t0": 332.852,
+"t1": 337.96,
+"set": "agoge",
+"v": 2,
+"seg": 10,
+"line": 31
+},
+{
+"t0": 337.96,
+"t1": 343.14,
+"set": "agoge",
+"v": 3,
+"seg": 10,
+"line": 32
+},
+{
+"t0": 343.14,
+"t1": 348.32,
+"set": "agoge",
+"v": 4,
+"seg": 10,
+"line": 32
+},
+{
+"t0": 348.32,
+"t1": 354.952,
+"set": "agoge",
+"v": 5,
+"seg": 10,
+"line": 33
+},
+{
+"t0": 354.952,
+"t1": 361.584,
+"set": "agoge",
+"v": 6,
+"seg": 10,
+"line": 33
+},
+{
+"t0": 361.584,
+"t1": 367.622,
+"set": "agoge",
+"v": 7,
+"seg": 10,
+"line": 34
+},
+{
+"t0": 367.622,
+"t1": 373.66,
+"set": "agoge",
+"v": 8,
+"seg": 10,
+"line": 34
+},
+{
+"t0": 373.66,
+"t1": 378.726,
+"set": "sparta_home",
+"v": 0,
+"seg": 11,
+"line": 35
+},
+{
+"t0": 378.726,
+"t1": 383.792,
+"set": "sparta_home",
+"v": 1,
+"seg": 11,
+"line": 35
+},
+{
+"t0": 383.792,
+"t1": 393.288,
+"set": "agoge",
+"v": 0,
+"seg": 12,
+"line": 36
+},
+{
+"t0": 393.288,
+"t1": 399.47,
+"set": "agoge",
+"v": 1,
+"seg": 12,
+"line": 37
+},
+{
+"t0": 399.47,
+"t1": 405.652,
+"set": "agoge",
+"v": 2,
+"seg": 12,
+"line": 37
+},
+{
+"t0": 405.652,
+"t1": 411.06,
+"set": "sparta_city",
+"v": 0,
+"seg": 13,
+"line": 38
+},
+{
+"t0": 411.06,
+"t1": 416.468,
+"set": "sparta_city",
+"v": 1,
+"seg": 13,
+"line": 38
+},
+{
+"t0": 416.468,
+"t1": 422.488,
+"set": "sparta_city",
+"v": 2,
+"seg": 13,
+"line": 39
+},
+{
+"t0": 422.488,
+"t1": 428.508,
+"set": "sparta_city",
+"v": 3,
+"seg": 13,
+"line": 39
+},
+{
+"t0": 428.508,
+"t1": 434.162,
+"set": "sparta_city",
+"v": 4,
+"seg": 13,
+"line": 40
+},
+{
+"t0": 434.162,
+"t1": 439.816,
+"set": "sparta_city",
+"v": 5,
+"seg": 13,
+"line": 40
+},
+{
+"t0": 439.816,
+"t1": 448.016,
+"set": "sparta_home",
+"v": 0,
+"seg": 14,
+"line": 41
+},
+{
+"t0": 448.016,
+"t1": 453.544,
+"set": "sparta_home",
+"v": 1,
+"seg": 14,
+"line": 42
+},
+{
+"t0": 453.544,
+"t1": 459.072,
+"set": "sparta_home",
+"v": 2,
+"seg": 14,
+"line": 42
+},
+{
+"t0": 459.072,
+"t1": 465.2,
+"set": "sparta_home",
+"v": 3,
+"seg": 14,
+"line": 43
+},
+{
+"t0": 465.2,
+"t1": 471.328,
+"set": "sparta_home",
+"v": 4,
+"seg": 14,
+"line": 43
+},
+{
+"t0": 471.328,
+"t1": 477.06,
+"set": "sparta_home",
+"v": 5,
+"seg": 14,
+"line": 44
+},
+{
+"t0": 477.06,
+"t1": 482.792,
+"set": "sparta_home",
+"v": 6,
+"seg": 14,
+"line": 44
+},
+{
+"t0": 482.792,
+"t1": 491.07,
+"set": "sparta_home",
+"v": 7,
+"seg": 14,
+"line": 45
+},
+{
+"t0": 491.07,
+"t1": 499.348,
+"set": "sparta_home",
+"v": 8,
+"seg": 14,
+"line": 45
+},
+{
+"t0": 499.348,
+"t1": 506.082,
+"set": "sparta_council",
+"v": 0,
+"seg": 15,
+"line": 46
+},
+{
+"t0": 506.082,
+"t1": 512.816,
+"set": "sparta_council",
+"v": 1,
+"seg": 15,
+"line": 46
+},
+{
+"t0": 512.816,
+"t1": 517.696,
+"set": "delphi",
+"v": 0,
+"seg": 16,
+"line": 47
+},
+{
+"t0": 517.696,
+"t1": 522.576,
+"set": "delphi",
+"v": 1,
+"seg": 16,
+"line": 47
+},
+{
+"t0": 522.576,
+"t1": 527.78,
+"set": "delphi",
+"v": 2,
+"seg": 16,
+"line": 48
+},
+{
+"t0": 527.78,
+"t1": 532.984,
+"set": "delphi",
+"v": 3,
+"seg": 16,
+"line": 48
+},
+{
+"t0": 532.984,
+"t1": 538.41,
+"set": "delphi",
+"v": 4,
+"seg": 16,
+"line": 49
+},
+{
+"t0": 538.41,
+"t1": 543.836,
+"set": "delphi",
+"v": 5,
+"seg": 16,
+"line": 49
+},
+{
+"t0": 543.836,
+"t1": 549.556,
+"set": "sparta_council",
+"v": 0,
+"seg": 17,
+"line": 50
+},
+{
+"t0": 549.556,
+"t1": 555.276,
+"set": "sparta_council",
+"v": 1,
+"seg": 17,
+"line": 50
+},
+{
+"t0": 555.276,
+"t1": 560.9,
+"set": "sparta_council",
+"v": 2,
+"seg": 17,
+"line": 51
+},
+{
+"t0": 560.9,
+"t1": 566.524,
+"set": "sparta_council",
+"v": 3,
+"seg": 17,
+"line": 51
+},
+{
+"t0": 566.524,
+"t1": 571.86,
+"set": "sparta_council",
+"v": 4,
+"seg": 17,
+"line": 52
+},
+{
+"t0": 571.86,
+"t1": 577.196,
+"set": "sparta_council",
+"v": 5,
+"seg": 17,
+"line": 52
+},
+{
+"t0": 577.196,
+"t1": 582.172,
+"set": "sparta_council",
+"v": 6,
+"seg": 17,
+"line": 53
+},
+{
+"t0": 582.172,
+"t1": 587.148,
+"set": "sparta_council",
+"v": 7,
+"seg": 17,
+"line": 53
+},
+{
+"t0": 587.148,
+"t1": 592.778,
+"set": "sparta_council",
+"v": 8,
+"seg": 17,
+"line": 54
+},
+{
+"t0": 592.778,
+"t1": 598.408,
+"set": "sparta_council",
+"v": 9,
+"seg": 17,
+"line": 54
+},
+{
+"t0": 598.408,
+"t1": 604.974,
+"set": "sparta_home",
+"v": 0,
+"seg": 18,
+"line": 55
+},
+{
+"t0": 604.974,
+"t1": 611.54,
+"set": "sparta_home",
+"v": 1,
+"seg": 18,
+"line": 55
+},
+{
+"t0": 611.54,
+"t1": 617.97,
+"set": "sparta_city",
+"v": 0,
+"seg": 19,
+"line": 56
+},
+{
+"t0": 617.97,
+"t1": 624.4,
+"set": "sparta_city",
+"v": 1,
+"seg": 19,
+"line": 56
+},
+{
+"t0": 624.4,
+"t1": 630.348,
+"set": "greek_march",
+"v": 0,
+"seg": 20,
+"line": 57
+},
+{
+"t0": 630.348,
+"t1": 636.296,
+"set": "greek_march",
+"v": 1,
+"seg": 20,
+"line": 57
+},
+{
+"t0": 636.296,
+"t1": 644.52,
+"set": "greek_march",
+"v": 2,
+"seg": 20,
+"line": 58
+},
+{
+"t0": 644.52,
+"t1": 650.054,
+"set": "greek_march",
+"v": 3,
+"seg": 20,
+"line": 59
+},
+{
+"t0": 650.054,
+"t1": 655.588,
+"set": "greek_march",
+"v": 4,
+"seg": 20,
+"line": 59
+},
+{
+"t0": 655.588,
+"t1": 664.292,
+"set": "pass_wall",
+"v": 0,
+"seg": 21,
+"line": 60
+},
+{
+"t0": 664.292,
+"t1": 669.832,
+"set": "pass_wall",
+"v": 1,
+"seg": 21,
+"line": 61
+},
+{
+"t0": 669.832,
+"t1": 675.372,
+"set": "pass_wall",
+"v": 2,
+"seg": 21,
+"line": 61
+},
+{
+"t0": 675.372,
+"t1": 680.156,
+"set": "pass_wall",
+"v": 3,
+"seg": 21,
+"line": 62
+},
+{
+"t0": 680.156,
+"t1": 684.94,
+"set": "pass_wall",
+"v": 4,
+"seg": 21,
+"line": 62
+},
+{
+"t0": 684.94,
+"t1": 691.26,
+"set": "pass_wall",
+"v": 5,
+"seg": 21,
+"line": 63
+},
+{
+"t0": 691.26,
+"t1": 697.58,
+"set": "pass_wall",
+"v": 6,
+"seg": 21,
+"line": 63
+},
+{
+"t0": 697.58,
+"t1": 704.172,
+"set": "pass_wall",
+"v": 7,
+"seg": 21,
+"line": 64
+},
+{
+"t0": 704.172,
+"t1": 710.696,
+"set": "pass_wall",
+"v": 8,
+"seg": 21,
+"line": 65
+},
+{
+"t0": 710.696,
+"t1": 717.22,
+"set": "pass_wall",
+"v": 9,
+"seg": 21,
+"line": 65
+},
+{
+"t0": 717.22,
+"t1": 722.448,
+"set": "pass_wall",
+"v": 10,
+"seg": 21,
+"line": 66
+},
+{
+"t0": 722.448,
+"t1": 727.676,
+"set": "pass_wall",
+"v": 11,
+"seg": 21,
+"line": 66
+},
+{
+"t0": 727.676,
+"t1": 733.408,
+"set": "pass_wall",
+"v": 12,
+"seg": 21,
+"line": 67
+},
+{
+"t0": 733.408,
+"t1": 739.14,
+"set": "pass_wall",
+"v": 13,
+"seg": 21,
+"line": 67
+},
+{
+"t0": 739.14,
+"t1": 747.904,
+"set": "pass_wall",
+"v": 14,
+"seg": 21,
+"line": 68
+},
+{
+"t0": 747.904,
+"t1": 752.976,
+"set": "salamis",
+"v": 0,
+"seg": 22,
+"line": 69
+},
+{
+"t0": 752.976,
+"t1": 758.048,
+"set": "salamis",
+"v": 1,
+"seg": 22,
+"line": 69
+},
+{
+"t0": 758.048,
+"t1": 763.096,
+"set": "salamis",
+"v": 2,
+"seg": 22,
+"line": 70
+},
+{
+"t0": 763.096,
+"t1": 768.144,
+"set": "salamis",
+"v": 3,
+"seg": 22,
+"line": 70
+},
+{
+"t0": 768.144,
+"t1": 775.294,
+"set": "salamis",
+"v": 4,
+"seg": 22,
+"line": 71
+},
+{
+"t0": 775.294,
+"t1": 782.444,
+"set": "salamis",
+"v": 5,
+"seg": 22,
+"line": 71
+},
+{
+"t0": 782.444,
+"t1": 790.38,
+"set": "persian_camp",
+"v": 0,
+"seg": 23,
+"line": 72
+},
+{
+"t0": 790.38,
+"t1": 795.674,
+"set": "persian_camp",
+"v": 1,
+"seg": 23,
+"line": 73
+},
+{
+"t0": 795.674,
+"t1": 800.968,
+"set": "persian_camp",
+"v": 2,
+"seg": 23,
+"line": 73
+},
+{
+"t0": 800.968,
+"t1": 810.44,
+"set": "persian_throne",
+"v": 0,
+"seg": 24,
+"line": 74
+},
+{
+"t0": 810.44,
+"t1": 816.034,
+"set": "persian_throne",
+"v": 1,
+"seg": 24,
+"line": 75
+},
+{
+"t0": 816.034,
+"t1": 821.628,
+"set": "persian_throne",
+"v": 2,
+"seg": 24,
+"line": 75
+},
+{
+"t0": 821.628,
+"t1": 830.308,
+"set": "pass_wait",
+"v": 0,
+"seg": 25,
+"line": 76
+},
+{
+"t0": 830.308,
+"t1": 835.194,
+"set": "pass_wait",
+"v": 1,
+"seg": 25,
+"line": 77
+},
+{
+"t0": 835.194,
+"t1": 840.08,
+"set": "pass_wait",
+"v": 2,
+"seg": 25,
+"line": 77
+},
+{
+"t0": 840.08,
+"t1": 846.376,
+"set": "persian_throne",
+"v": 0,
+"seg": 26,
+"line": 78
+},
+{
+"t0": 846.376,
+"t1": 852.672,
+"set": "persian_throne",
+"v": 1,
+"seg": 26,
+"line": 78
+},
+{
+"t0": 852.672,
+"t1": 858.458,
+"set": "persian_throne",
+"v": 2,
+"seg": 26,
+"line": 79
+},
+{
+"t0": 858.458,
+"t1": 864.244,
+"set": "persian_throne",
+"v": 3,
+"seg": 26,
+"line": 79
+},
+{
+"t0": 864.244,
+"t1": 873.476,
+"set": "pass_wait",
+"v": 0,
+"seg": 27,
+"line": 80
+},
+{
+"t0": 873.476,
+"t1": 882.9,
+"set": "pass_wait",
+"v": 1,
+"seg": 27,
+"line": 81
+},
+{
+"t0": 882.9,
+"t1": 891.34,
+"set": "pass_wait",
+"v": 2,
+"seg": 27,
+"line": 82
+},
+{
+"t0": 891.34,
+"t1": 900.74,
+"set": "pass_wait",
+"v": 3,
+"seg": 27,
+"line": 83
+},
+{
+"t0": 900.74,
+"t1": 906.028,
+"set": "pass_wait",
+"v": 4,
+"seg": 27,
+"line": 84
+},
+{
+"t0": 906.028,
+"t1": 911.316,
+"set": "pass_wait",
+"v": 5,
+"seg": 27,
+"line": 84
+},
+{
+"t0": 911.316,
+"t1": 919.198,
+"set": "pass_wait",
+"v": 6,
+"seg": 27,
+"line": 85
+},
+{
+"t0": 919.198,
+"t1": 927.08,
+"set": "pass_wait",
+"v": 7,
+"seg": 27,
+"line": 85
+},
+{
+"t0": 927.08,
+"t1": 932.068,
+"set": "battle_day",
+"v": 0,
+"seg": 28,
+"line": 86
+},
+{
+"t0": 932.068,
+"t1": 937.056,
+"set": "battle_day",
+"v": 1,
+"seg": 28,
+"line": 86
+},
+{
+"t0": 937.056,
+"t1": 941.912,
+"set": "battle_day",
+"v": 2,
+"seg": 28,
+"line": 87
+},
+{
+"t0": 941.912,
+"t1": 946.768,
+"set": "battle_day",
+"v": 3,
+"seg": 28,
+"line": 87
+},
+{
+"t0": 946.768,
+"t1": 952.608,
+"set": "battle_day",
+"v": 4,
+"seg": 28,
+"line": 88
+},
+{
+"t0": 952.608,
+"t1": 958.448,
+"set": "battle_day",
+"v": 5,
+"seg": 28,
+"line": 88
+},
+{
+"t0": 958.448,
+"t1": 963.988,
+"set": "battle_day",
+"v": 6,
+"seg": 28,
+"line": 89
+},
+{
+"t0": 963.988,
+"t1": 969.528,
+"set": "battle_day",
+"v": 7,
+"seg": 28,
+"line": 89
+},
+{
+"t0": 969.528,
+"t1": 975.784,
+"set": "battle_day",
+"v": 8,
+"seg": 28,
+"line": 90
+},
+{
+"t0": 975.784,
+"t1": 981.552,
+"set": "battle_day",
+"v": 9,
+"seg": 28,
+"line": 91
+},
+{
+"t0": 981.552,
+"t1": 987.32,
+"set": "battle_day",
+"v": 10,
+"seg": 28,
+"line": 91
+},
+{
+"t0": 987.32,
+"t1": 993.268,
+"set": "battle_day",
+"v": 11,
+"seg": 28,
+"line": 92
+},
+{
+"t0": 993.268,
+"t1": 999.216,
+"set": "battle_day",
+"v": 12,
+"seg": 28,
+"line": 92
+},
+{
+"t0": 999.216,
+"t1": 1007.752,
+"set": "battle_day",
+"v": 13,
+"seg": 28,
+"line": 93
+},
+{
+"t0": 1007.752,
+"t1": 1012.992,
+"set": "battle_day",
+"v": 14,
+"seg": 28,
+"line": 94
+},
+{
+"t0": 1012.992,
+"t1": 1018.232,
+"set": "battle_day",
+"v": 15,
+"seg": 28,
+"line": 94
+},
+{
+"t0": 1018.232,
+"t1": 1026.48,
+"set": "battle_day",
+"v": 16,
+"seg": 28,
+"line": 95
+},
+{
+"t0": 1026.48,
+"t1": 1031.288,
+"set": "battle_day",
+"v": 17,
+"seg": 28,
+"line": 96
+},
+{
+"t0": 1031.288,
+"t1": 1036.096,
+"set": "battle_day",
+"v": 18,
+"seg": 28,
+"line": 96
+},
+{
+"t0": 1036.096,
+"t1": 1041.018,
+"set": "battle_day",
+"v": 19,
+"seg": 28,
+"line": 97
+},
+{
+"t0": 1041.018,
+"t1": 1045.94,
+"set": "battle_day",
+"v": 20,
+"seg": 28,
+"line": 97
+},
+{
+"t0": 1045.94,
+"t1": 1052.202,
+"set": "persian_throne",
+"v": 0,
+"seg": 29,
+"line": 98
+},
+{
+"t0": 1052.202,
+"t1": 1058.464,
+"set": "persian_throne",
+"v": 1,
+"seg": 29,
+"line": 98
+},
+{
+"t0": 1058.464,
+"t1": 1064.04,
+"set": "battle_night",
+"v": 0,
+"seg": 30,
+"line": 99
+},
+{
+"t0": 1064.04,
+"t1": 1069.616,
+"set": "battle_night",
+"v": 1,
+"seg": 30,
+"line": 99
+},
+{
+"t0": 1069.616,
+"t1": 1074.749,
+"set": "battle_night",
+"v": 2,
+"seg": 30,
+"line": 100
+},
+{
+"t0": 1074.749,
+"t1": 1079.881,
+"set": "battle_night",
+"v": 3,
+"seg": 30,
+"line": 100
+},
+{
+"t0": 1079.881,
+"t1": 1088.079,
+"set": "battle_night",
+"v": 4,
+"seg": 30,
+"line": 101
+},
+{
+"t0": 1088.079,
+"t1": 1096.277,
+"set": "battle_night",
+"v": 5,
+"seg": 30,
+"line": 101
+},
+{
+"t0": 1096.277,
+"t1": 1101.109,
+"set": "battle_day",
+"v": 0,
+"seg": 31,
+"line": 102
+},
+{
+"t0": 1101.109,
+"t1": 1105.941,
+"set": "battle_day",
+"v": 1,
+"seg": 31,
+"line": 102
+},
+{
+"t0": 1105.941,
+"t1": 1114.381,
+"set": "battle_day",
+"v": 2,
+"seg": 31,
+"line": 103
+},
+{
+"t0": 1114.381,
+"t1": 1119.783,
+"set": "battle_day",
+"v": 3,
+"seg": 31,
+"line": 104
+},
+{
+"t0": 1119.783,
+"t1": 1125.185,
+"set": "battle_day",
+"v": 4,
+"seg": 31,
+"line": 104
+},
+{
+"t0": 1125.185,
+"t1": 1132.467,
+"set": "persian_throne",
+"v": 0,
+"seg": 32,
+"line": 105
+},
+{
+"t0": 1132.467,
+"t1": 1139.749,
+"set": "persian_throne",
+"v": 1,
+"seg": 32,
+"line": 105
+},
+{
+"t0": 1139.749,
+"t1": 1148.861,
+"set": "persian_night",
+"v": 0,
+"seg": 33,
+"line": 106
+},
+{
+"t0": 1148.861,
+"t1": 1153.669,
+"set": "persian_night",
+"v": 1,
+"seg": 33,
+"line": 107
+},
+{
+"t0": 1153.669,
+"t1": 1158.477,
+"set": "persian_night",
+"v": 2,
+"seg": 33,
+"line": 107
+},
+{
+"t0": 1158.477,
+"t1": 1164.925,
+"set": "persian_night",
+"v": 3,
+"seg": 33,
+"line": 108
+},
+{
+"t0": 1164.925,
+"t1": 1169.685,
+"set": "persian_night",
+"v": 4,
+"seg": 33,
+"line": 109
+},
+{
+"t0": 1169.685,
+"t1": 1174.445,
+"set": "persian_night",
+"v": 5,
+"seg": 33,
+"line": 109
+},
+{
+"t0": 1174.445,
+"t1": 1180.867,
+"set": "persian_night",
+"v": 6,
+"seg": 33,
+"line": 110
+},
+{
+"t0": 1180.867,
+"t1": 1187.289,
+"set": "persian_night",
+"v": 7,
+"seg": 33,
+"line": 110
+},
+{
+"t0": 1187.289,
+"t1": 1194.505,
+"set": "goat_path",
+"v": 0,
+"seg": 34,
+"line": 111
+},
+{
+"t0": 1194.505,
+"t1": 1204.001,
+"set": "goat_path",
+"v": 1,
+"seg": 34,
+"line": 112
+},
+{
+"t0": 1204.001,
+"t1": 1209.349,
+"set": "goat_path",
+"v": 2,
+"seg": 34,
+"line": 113
+},
+{
+"t0": 1209.349,
+"t1": 1214.697,
+"set": "goat_path",
+"v": 3,
+"seg": 34,
+"line": 113
+},
+{
+"t0": 1214.697,
+"t1": 1222.609,
+"set": "goat_path",
+"v": 4,
+"seg": 34,
+"line": 114
+},
+{
+"t0": 1222.609,
+"t1": 1229.051,
+"set": "goat_path",
+"v": 5,
+"seg": 34,
+"line": 115
+},
+{
+"t0": 1229.051,
+"t1": 1235.493,
+"set": "goat_path",
+"v": 6,
+"seg": 34,
+"line": 115
+},
+{
+"t0": 1235.493,
+"t1": 1244.341,
+"set": "spartan_camp_night",
+"v": 0,
+"seg": 35,
+"line": 116
+},
+{
+"t0": 1244.341,
+"t1": 1249.689,
+"set": "spartan_camp_night",
+"v": 1,
+"seg": 35,
+"line": 117
+},
+{
+"t0": 1249.689,
+"t1": 1255.037,
+"set": "spartan_camp_night",
+"v": 2,
+"seg": 35,
+"line": 117
+},
+{
+"t0": 1255.037,
+"t1": 1263.693,
+"set": "spartan_camp_night",
+"v": 3,
+"seg": 35,
+"line": 118
+},
+{
+"t0": 1263.693,
+"t1": 1272.805,
+"set": "spartan_camp_night",
+"v": 4,
+"seg": 35,
+"line": 119
+},
+{
+"t0": 1272.805,
+"t1": 1279.629,
+"set": "spartan_camp_night",
+"v": 5,
+"seg": 35,
+"line": 120
+},
+{
+"t0": 1279.629,
+"t1": 1286.453,
+"set": "spartan_camp_night",
+"v": 6,
+"seg": 35,
+"line": 120
+},
+{
+"t0": 1286.453,
+"t1": 1295.493,
+"set": "spartan_camp_night",
+"v": 7,
+"seg": 35,
+"line": 121
+},
+{
+"t0": 1295.493,
+"t1": 1303.597,
+"set": "spartan_camp_night",
+"v": 8,
+"seg": 35,
+"line": 122
+},
+{
+"t0": 1303.597,
+"t1": 1308.957,
+"set": "spartan_camp_night",
+"v": 9,
+"seg": 35,
+"line": 123
+},
+{
+"t0": 1308.957,
+"t1": 1314.317,
+"set": "spartan_camp_night",
+"v": 10,
+"seg": 35,
+"line": 123
+},
+{
+"t0": 1314.317,
+"t1": 1322.301,
+"set": "spartan_camp_night",
+"v": 11,
+"seg": 35,
+"line": 124
+},
+{
+"t0": 1322.301,
+"t1": 1327.133,
+"set": "spartan_camp_night",
+"v": 12,
+"seg": 35,
+"line": 125
+},
+{
+"t0": 1327.133,
+"t1": 1331.965,
+"set": "spartan_camp_night",
+"v": 13,
+"seg": 35,
+"line": 125
+},
+{
+"t0": 1331.965,
+"t1": 1339.523,
+"set": "spartan_camp_night",
+"v": 14,
+"seg": 35,
+"line": 126
+},
+{
+"t0": 1339.523,
+"t1": 1347.081,
+"set": "spartan_camp_night",
+"v": 15,
+"seg": 35,
+"line": 126
+},
+{
+"t0": 1347.081,
+"t1": 1352.045,
+"set": "last_stand",
+"v": 0,
+"seg": 36,
+"line": 127
+},
+{
+"t0": 1352.045,
+"t1": 1357.009,
+"set": "last_stand",
+"v": 1,
+"seg": 36,
+"line": 127
+},
+{
+"t0": 1357.009,
+"t1": 1361.829,
+"set": "last_stand",
+"v": 2,
+"seg": 36,
+"line": 128
+},
+{
+"t0": 1361.829,
+"t1": 1366.649,
+"set": "last_stand",
+"v": 3,
+"seg": 36,
+"line": 128
+},
+{
+"t0": 1366.649,
+"t1": 1373.257,
+"set": "last_stand",
+"v": 4,
+"seg": 36,
+"line": 129
+},
+{
+"t0": 1373.257,
+"t1": 1379.865,
+"set": "last_stand",
+"v": 5,
+"seg": 36,
+"line": 129
+},
+{
+"t0": 1379.865,
+"t1": 1387.801,
+"set": "last_stand",
+"v": 6,
+"seg": 36,
+"line": 130
+},
+{
+"t0": 1387.801,
+"t1": 1393.773,
+"set": "last_stand",
+"v": 7,
+"seg": 36,
+"line": 131
+},
+{
+"t0": 1393.773,
+"t1": 1399.745,
+"set": "last_stand",
+"v": 8,
+"seg": 36,
+"line": 131
+},
+{
+"t0": 1399.745,
+"t1": 1407.225,
+"set": "last_stand",
+"v": 9,
+"seg": 36,
+"line": 132
+},
+{
+"t0": 1407.225,
+"t1": 1412.273,
+"set": "last_stand",
+"v": 10,
+"seg": 36,
+"line": 133
+},
+{
+"t0": 1412.273,
+"t1": 1417.321,
+"set": "last_stand",
+"v": 11,
+"seg": 36,
+"line": 133
+},
+{
+"t0": 1417.321,
+"t1": 1423.509,
+"set": "last_stand",
+"v": 12,
+"seg": 36,
+"line": 134
+},
+{
+"t0": 1423.509,
+"t1": 1429.697,
+"set": "last_stand",
+"v": 13,
+"seg": 36,
+"line": 134
+},
+{
+"t0": 1429.697,
+"t1": 1435.401,
+"set": "last_stand",
+"v": 14,
+"seg": 36,
+"line": 135
+},
+{
+"t0": 1435.401,
+"t1": 1443.553,
+"set": "last_stand",
+"v": 15,
+"seg": 36,
+"line": 136
+},
+{
+"t0": 1443.553,
+"t1": 1449.633,
+"set": "last_stand",
+"v": 16,
+"seg": 36,
+"line": 137
+},
+{
+"t0": 1449.633,
+"t1": 1455.713,
+"set": "last_stand",
+"v": 17,
+"seg": 36,
+"line": 137
+},
+{
+"t0": 1455.713,
+"t1": 1460.809,
+"set": "last_stand",
+"v": 18,
+"seg": 36,
+"line": 138
+},
+{
+"t0": 1460.809,
+"t1": 1465.905,
+"set": "last_stand",
+"v": 19,
+"seg": 36,
+"line": 138
+},
+{
+"t0": 1465.905,
+"t1": 1474.801,
+"set": "last_stand",
+"v": 20,
+"seg": 36,
+"line": 139
+},
+{
+"t0": 1474.801,
+"t1": 1482.977,
+"set": "last_stand",
+"v": 21,
+"seg": 36,
+"line": 140
+},
+{
+"t0": 1482.977,
+"t1": 1487.893,
+"set": "last_stand",
+"v": 22,
+"seg": 36,
+"line": 141
+},
+{
+"t0": 1487.893,
+"t1": 1492.809,
+"set": "last_stand",
+"v": 23,
+"seg": 36,
+"line": 141
+},
+{
+"t0": 1492.809,
+"t1": 1498.897,
+"set": "last_stand",
+"v": 24,
+"seg": 36,
+"line": 142
+},
+{
+"t0": 1498.897,
+"t1": 1504.895,
+"set": "last_stand",
+"v": 25,
+"seg": 36,
+"line": 143
+},
+{
+"t0": 1504.895,
+"t1": 1510.893,
+"set": "last_stand",
+"v": 26,
+"seg": 36,
+"line": 143
+},
+{
+"t0": 1510.893,
+"t1": 1516.649,
+"set": "persian_throne",
+"v": 0,
+"seg": 37,
+"line": 144
+},
+{
+"t0": 1516.649,
+"t1": 1522.405,
+"set": "persian_throne",
+"v": 1,
+"seg": 37,
+"line": 144
+},
+{
+"t0": 1522.405,
+"t1": 1530.833,
+"set": "persian_throne",
+"v": 2,
+"seg": 37,
+"line": 145
+},
+{
+"t0": 1530.833,
+"t1": 1538.661,
+"set": "persian_march",
+"v": 0,
+"seg": 38,
+"line": 146
+},
+{
+"t0": 1538.661,
+"t1": 1544.789,
+"set": "aftermath_athens",
+"v": 0,
+"seg": 39,
+"line": 147
+},
+{
+"t0": 1544.789,
+"t1": 1550.917,
+"set": "aftermath_athens",
+"v": 1,
+"seg": 39,
+"line": 147
+},
+{
+"t0": 1550.917,
+"t1": 1558.949,
+"set": "aftermath_athens",
+"v": 2,
+"seg": 39,
+"line": 148
+},
+{
+"t0": 1558.949,
+"t1": 1568.253,
+"set": "aftermath_athens",
+"v": 3,
+"seg": 39,
+"line": 149
+},
+{
+"t0": 1568.253,
+"t1": 1576.897,
+"set": "aftermath_athens",
+"v": 4,
+"seg": 39,
+"line": 150
+},
+{
+"t0": 1576.897,
+"t1": 1581.693,
+"set": "salamis",
+"v": 0,
+"seg": 40,
+"line": 151
+},
+{
+"t0": 1581.693,
+"t1": 1586.489,
+"set": "salamis",
+"v": 1,
+"seg": 40,
+"line": 151
+},
+{
+"t0": 1586.489,
+"t1": 1591.741,
+"set": "salamis",
+"v": 2,
+"seg": 40,
+"line": 152
+},
+{
+"t0": 1591.741,
+"t1": 1596.993,
+"set": "salamis",
+"v": 3,
+"seg": 40,
+"line": 152
+},
+{
+"t0": 1596.993,
+"t1": 1603.477,
+"set": "salamis",
+"v": 4,
+"seg": 40,
+"line": 153
+},
+{
+"t0": 1603.477,
+"t1": 1611.869,
+"set": "plataea",
+"v": 0,
+"seg": 41,
+"line": 154
+},
+{
+"t0": 1611.869,
+"t1": 1619.709,
+"set": "plataea",
+"v": 1,
+"seg": 41,
+"line": 155
+},
+{
+"t0": 1619.709,
+"t1": 1626.401,
+"set": "plataea",
+"v": 2,
+"seg": 41,
+"line": 156
+},
+{
+"t0": 1626.401,
+"t1": 1633.093,
+"set": "plataea",
+"v": 3,
+"seg": 41,
+"line": 156
+},
+{
+"t0": 1633.093,
+"t1": 1642.229,
+"set": "plataea",
+"v": 4,
+"seg": 41,
+"line": 157
+},
+{
+"t0": 1642.229,
+"t1": 1648.573,
+"set": "plataea",
+"v": 5,
+"seg": 41,
+"line": 158
+},
+{
+"t0": 1648.573,
+"t1": 1654.917,
+"set": "plataea",
+"v": 6,
+"seg": 41,
+"line": 158
+},
+{
+"t0": 1654.917,
+"t1": 1660.229,
+"set": "plataea",
+"v": 7,
+"seg": 41,
+"line": 159
+},
+{
+"t0": 1660.229,
+"t1": 1665.541,
+"set": "plataea",
+"v": 8,
+"seg": 41,
+"line": 159
+},
+{
+"t0": 1665.541,
+"t1": 1671.837,
+"set": "plataea",
+"v": 9,
+"seg": 41,
+"line": 160
+},
+{
+"t0": 1671.837,
+"t1": 1678.133,
+"set": "plataea",
+"v": 10,
+"seg": 41,
+"line": 160
+},
+{
+"t0": 1678.133,
+"t1": 1684.923,
+"set": "plataea",
+"v": 11,
+"seg": 41,
+"line": 161
+},
+{
+"t0": 1684.923,
+"t1": 1691.713,
+"set": "plataea",
+"v": 12,
+"seg": 41,
+"line": 161
+},
+{
+"t0": 1691.713,
+"t1": 1696.797,
+"set": "epitaph",
+"v": 0,
+"seg": 42,
+"line": 162
+},
+{
+"t0": 1696.797,
+"t1": 1701.881,
+"set": "epitaph",
+"v": 1,
+"seg": 42,
+"line": 162
+},
+{
+"t0": 1701.881,
+"t1": 1709.913,
+"set": "epitaph",
+"v": 2,
+"seg": 42,
+"line": 163
+},
+{
+"t0": 1709.913,
+"t1": 1714.757,
+"set": "epitaph",
+"v": 3,
+"seg": 42,
+"line": 164
+},
+{
+"t0": 1714.757,
+"t1": 1719.601,
+"set": "epitaph",
+"v": 4,
+"seg": 42,
+"line": 164
+},
+{
+"t0": 1719.601,
+"t1": 1729.097,
+"set": "epitaph",
+"v": 5,
+"seg": 42,
+"line": 165
+},
+{
+"t0": 1729.097,
+"t1": 1735.933,
+"set": "epitaph",
+"v": 6,
+"seg": 42,
+"line": 166
+},
+{
+"t0": 1735.933,
+"t1": 1742.769,
+"set": "epitaph",
+"v": 7,
+"seg": 42,
+"line": 166
+},
+{
+"t0": 1742.769,
+"t1": 1748.453,
+"set": "epitaph",
+"v": 8,
+"seg": 42,
+"line": 167
+},
+{
+"t0": 1748.453,
+"t1": 1754.137,
+"set": "epitaph",
+"v": 9,
+"seg": 42,
+"line": 167
+},
+{
+"t0": 1754.137,
+"t1": 1760.367,
+"set": "epitaph",
+"v": 10,
+"seg": 42,
+"line": 168
+},
+{
+"t0": 1760.367,
+"t1": 1766.597,
+"set": "epitaph",
+"v": 11,
+"seg": 42,
+"line": 168
+},
+{
+"t0": 1766.597,
+"t1": 1772.475,
+"set": "pass_dawn",
+"v": 0,
+"seg": 43,
+"line": 169
+},
+{
+"t0": 1772.475,
+"t1": 1778.352,
+"set": "pass_dawn",
+"v": 1,
+"seg": 43,
+"line": 169
+},
+{
+"t0": 1778.352,
+"t1": 1784.23,
+"set": "pass_dawn",
+"v": 2,
+"seg": 43,
+"line": 169
+}
+],
+"end": 1784.23,
+"lines": [
+{
+"i": 1,
+"tag": "pass_dawn",
+"start": 4.0,
+"dur": 8.15,
+"ro": "480 qabl-e-maseeh. Yunan ke saahil par ek tang pahaari raasta, jis ka naam tha Thermopylae."
+},
+{
+"i": 2,
+"tag": "pass_dawn",
+"start": 13.4,
+"dur": 10.694,
+"ro": "Ek taraf oonchi chataanein theen, aur doosri taraf gehra samandar. Beech mein sirf itni jagah ke chand aadmi kandhe se kandha mila kar khade ho sakein."
+},
+{
+"i": 3,
+"tag": "pass_dawn",
+"start": 25.344,
+"dur": 8.606,
+"ro": "Us subah, is raaste mein teen sau sipahi khade the. Surkh chaadarein, kaansi ke khood, aur haathon mein lambe neze."
+},
+{
+"i": 4,
+"tag": "persian_march",
+"start": 36.1,
+"dur": 6.182,
+"ro": "Aur unke saamne, jahan tak nazar jaati thi, duniya ki sab se badi fauj phaili hui thi."
+},
+{
+"i": 5,
+"tag": "pass_dawn",
+"start": 44.432,
+"dur": 8.774,
+"ro": "Yeh kahani hai Sparta ke badshah Leonidas ki, aur un teen sau aadmiyon ki, jinhon ne jaante boojhte maut ka raasta chuna."
+},
+{
+"i": 6,
+"tag": "pass_dawn",
+"start": 54.456,
+"dur": 6.134,
+"ro": "Magar yeh samajhne ke liye ke woh wahan kyun khade the, humein das saal peechhe jaana hoga."
+},
+{
+"i": 7,
+"tag": "persia_court",
+"start": 64.94,
+"dur": 9.854,
+"ro": "Us zamane mein duniya ki sab se taaqatwar saltanat Faras ki thi. Hindustan ki sarhad se le kar Misr tak, sab us ke qabze mein tha."
+},
+{
+"i": 8,
+"tag": "persia_court",
+"start": 76.044,
+"dur": 8.63,
+"ro": "Us ka badshah Dara khud ko badshahon ka badshah kehta tha. Laakhon log us ke hukm par jeete aur marte the."
+},
+{
+"i": 9,
+"tag": "envoy_well",
+"start": 86.824,
+"dur": 10.694,
+"ro": "Dara ne Yunan ke shehron mein apne qaasid bheje. Paigham saada tha. Mitti aur paani bhejo, yaani hamari itaat qubool karo."
+},
+{
+"i": 10,
+"tag": "envoy_well",
+"start": 98.768,
+"dur": 10.334,
+"ro": "Bohat se shehron ne dar kar sar jhuka diya. Magar jab qaasid Sparta pahunche, to Sparta walon ne unhein ek gehre kunwein mein phenk diya."
+},
+{
+"i": 11,
+"tag": "envoy_well",
+"start": 110.352,
+"dur": 5.63,
+"ro": "Aur kaha, mitti aur paani chahiye? Neeche ja kar khud le lo."
+},
+{
+"i": 12,
+"tag": "persia_court",
+"start": 118.132,
+"dur": 7.814,
+"ro": "Dara ne Yunan par hamla kiya, magar Marathon ke maidan mein Athens ki chhoti si fauj ne use shikast de di."
+},
+{
+"i": 13,
+"tag": "persia_court",
+"start": 127.196,
+"dur": 8.726,
+"ro": "Dara yeh zillat le kar mar gaya. Aur us ka beta Khashayar takht par baitha, jise Yunani Xerxes kehte the."
+},
+{
+"i": 14,
+"tag": "persia_court",
+"start": 137.172,
+"dur": 9.398,
+"ro": "Xerxes ne qasam khaai ke woh baap ka badla lega. Aur is baar woh aisi fauj le kar aayega jo duniya ne kabhi na dekhi ho."
+},
+{
+"i": 15,
+"tag": "persia_court",
+"start": 147.82,
+"dur": 8.99,
+"ro": "Chaar saal tak poori saltanat mein tayyari hoti rahi. Har soobe se sipahi, ghode, jahaz aur anaaj jama kiya gaya."
+},
+{
+"i": 16,
+"tag": "persian_march",
+"start": 158.96,
+"dur": 11.51,
+"ro": "Is fauj mein chaalees se zyada qaumein theen. Misri, Babli, Hindustani teerandaaz, Arab oont sawaar, aur Habsha ke sipahi jo jismon par rang mal kar ladte the."
+},
+{
+"i": 17,
+"tag": "persian_march",
+"start": 171.72,
+"dur": 8.75,
+"ro": "Har qaum apne libaas aur apne hathiyaaron ke saath thi. Aisa lagta tha jaise poori duniya Yunan par chadh aayi ho."
+},
+{
+"i": 18,
+"tag": "hellespont",
+"start": 182.62,
+"dur": 9.71,
+"ro": "Asia aur Europe ke beech samandar ki ek patti thi, Hellespont. Xerxes ne saikdon kashtiyan jod kar us par pul banwa diya."
+},
+{
+"i": 19,
+"tag": "hellespont",
+"start": 193.58,
+"dur": 8.102,
+"ro": "Kehte hain jab ek toofan ne pehla pul tod diya, to Xerxes ne ghusse mein samandar ko kode lagane ka hukm diya."
+},
+{
+"i": 20,
+"tag": "hellespont",
+"start": 202.932,
+"dur": 5.918,
+"ro": "Phir naya pul bana, aur saat din aur saat raatein fauj us par se guzarti rahi."
+},
+{
+"i": 21,
+"tag": "hellespont",
+"start": 210.1,
+"dur": 10.838,
+"ro": "Abydos ke maqaam par Xerxes ek sang-e-marmar ke takht par baith kar apni fauj aur apne jahaz dekh raha tha. Pehle woh khush hua, phir rone laga."
+},
+{
+"i": 22,
+"tag": "hellespont",
+"start": 222.188,
+"dur": 7.574,
+"ro": "Us ke chacha ne wajah poochhi to bola, soch raha hoon ke in laakhon mein se sau saal baad ek bhi zinda nahin hoga."
+},
+{
+"i": 23,
+"tag": "persian_march",
+"start": 231.912,
+"dur": 7.43,
+"ro": "Qadeem moarrikh Herodotus likhta hai ke yeh fauj itni badi thi ke raaste ke darya pi kar khushk kar deti thi."
+},
+{
+"i": 24,
+"tag": "persian_march",
+"start": 240.592,
+"dur": 10.094,
+"ro": "Aaj ke moarrikh kehte hain ke is mein shayad dedh se teen laakh sipahi the. Phir bhi, us waqt ki duniya ke liye yeh naqabil-e-tasawwur tha."
+},
+{
+"i": 25,
+"tag": "persian_march",
+"start": 251.936,
+"dur": 10.478,
+"ro": "Is fauj ke beech das hazaar chune hue sipahi the, jinhein Amar kaha jaata tha. Kyunke jab ek girta, fauran doosra us ki jagah le leta."
+},
+{
+"i": 26,
+"tag": "sparta_city",
+"start": 266.764,
+"dur": 9.254,
+"ro": "Yunan koi ek mulk nahin tha. Yeh chhote chhote azaad shehron ka majmooa tha, jo aksar aapas mein hi ladte rehte the."
+},
+{
+"i": 27,
+"tag": "sparta_city",
+"start": 277.268,
+"dur": 12.902,
+"ro": "In mein ek shehar sab se alag tha. Sparta. Us ke gird koi deewar nahin thi. Sparta wale kehte the, hamare sipahi hi hamari deewar hain."
+},
+{
+"i": 28,
+"tag": "sparta_city",
+"start": 291.42,
+"dur": 12.326,
+"ro": "Sparta wale baat bhi kam karte the. Un ke kam lafzon mein badi baat kehne ke andaaz se ek lafz bana, laconic. Jo aaj bhi angrezi mein bola jaata hai."
+},
+{
+"i": 29,
+"tag": "sparta_city",
+"start": 304.996,
+"dur": 12.206,
+"ro": "Sparta ka har azaad mard sirf ek hi pesha rakhta tha. Sipahi. Kheti baadi aur baaqi sab kaam ghulaam karte the, jinhein Helot kaha jaata tha."
+},
+{
+"i": 30,
+"tag": "agoge",
+"start": 319.352,
+"dur": 7.742,
+"ro": "Sparta mein jab koi ladka saat saal ka hota, to use maa se le kar fauji tarbiyat gaah mein bhej diya jaata."
+},
+{
+"i": 31,
+"tag": "agoge",
+"start": 328.344,
+"dur": 8.966,
+"ro": "Wahan nange paaon chalna sikhaya jaata, saal bhar ek hi chaadar milti, aur khana itna kam ke ladke bhook bardasht karna seekh jaayein."
+},
+{
+"i": 32,
+"tag": "agoge",
+"start": 338.56,
+"dur": 9.11,
+"ro": "Daud, kushti, neza, dhaal. Aur sab se badh kar ek sabaq. Maidan se kabhi peeth pher kar mat bhaagna."
+},
+{
+"i": 33,
+"tag": "agoge",
+"start": 348.92,
+"dur": 12.014,
+"ro": "Ladkon ko chori karna bhi sikhaya jaata tha, taake woh chaalaak banein. Magar jo pakda jaata, use sakht saza milti. Chori par nahin, pakde jaane par."
+},
+{
+"i": 34,
+"tag": "agoge",
+"start": 362.184,
+"dur": 9.926,
+"ro": "Bees saal ki umar mein woh sipahi banta, aur saath saal ki umar tak fauj ka hissa rehta. Saari zindagi ek hi maqsad ke liye."
+},
+{
+"i": 35,
+"tag": "sparta_home",
+"start": 374.26,
+"dur": 7.982,
+"ro": "Jab beta jang par jaata, to Sparta ki maa use dhaal de kar kehti, ya ise le kar lautna, ya is par let kar."
+},
+{
+"i": 36,
+"tag": "agoge",
+"start": 384.392,
+"dur": 8.246,
+"ro": "Yaani ya to jeet kar aana, ya mar kar. Dhaal phenk kar bhaagne wale ke liye Sparta mein koi jagah nahin thi."
+},
+{
+"i": 37,
+"tag": "agoge",
+"start": 393.888,
+"dur": 10.214,
+"ro": "Leonidas bhi isi tarbiyat se guzra tha. Woh badshah ka teesra beta tha, aur kisi ko umeed nahin thi ke woh kabhi takht par baithega."
+},
+{
+"i": 38,
+"tag": "sparta_city",
+"start": 406.252,
+"dur": 9.566,
+"ro": "Magar us ke donon bade bhai ek ek kar ke duniya se chale gaye, aur taqreeban pachaas saal ki umar mein Leonidas Sparta ka badshah ban gaya."
+},
+{
+"i": 39,
+"tag": "sparta_city",
+"start": 417.068,
+"dur": 10.79,
+"ro": "Sparta ke badshah khud ko Yunan ke sab se bade soorma Heracles ki aulaad maante the. Aur Leonidas ke naam ka matlab tha, sher ka beta."
+},
+{
+"i": 40,
+"tag": "sparta_city",
+"start": 429.108,
+"dur": 9.158,
+"ro": "Sparta mein ek waqt mein do badshah hote the. Ek shehar mein rehta, aur doosra jang mein fauj ki qiyaadat karta."
+},
+{
+"i": 41,
+"tag": "sparta_home",
+"start": 440.416,
+"dur": 6.95,
+"ro": "Us ki biwi Gorgo bhi kam mashhoor nahin thi. Woh apni zehanat ke liye jaani jaati thi."
+},
+{
+"i": 42,
+"tag": "sparta_home",
+"start": 448.616,
+"dur": 9.806,
+"ro": "Kisi ne us se poochha, Sparta ki auratein hi mardon par hukm kyun chalaati hain? Gorgo ne kaha, kyunke hum hi mard paida karti hain."
+},
+{
+"i": 43,
+"tag": "sparta_home",
+"start": 459.672,
+"dur": 11.006,
+"ro": "Kehte hain Faras ke hamle se pehle Sparta mein ek ajeeb takhti pahunchi. Lakdi ki takhti, jis par mom ki teh thi, magar kuchh likha hua nahin tha."
+},
+{
+"i": 44,
+"tag": "sparta_home",
+"start": 471.928,
+"dur": 10.214,
+"ro": "Koi nahin samajh saka ke yeh kya hai. Tab Gorgo ne kaha, mom khurcho. Aur mom ke neeche, lakdi par khuda hua paigham mila."
+},
+{
+"i": 45,
+"tag": "sparta_home",
+"start": 483.392,
+"dur": 12.206,
+"ro": "Xerxes Yunan par hamle ki tayyari kar raha hai. Yeh khufiya paigham Faras mein rehne wale ek Yunani ne bheja tha. Aur use sirf ek aurat ne padh liya tha."
+},
+{
+"i": 46,
+"tag": "sparta_council",
+"start": 499.948,
+"dur": 11.318,
+"ro": "480 qabl-e-maseeh ki garmiyon mein khabar aayi. Xerxes ki fauj Europe mein daakhil ho chuki thi, aur shimaali Yunan ke shehar ek ek kar ke jhuk rahe the."
+},
+{
+"i": 47,
+"tag": "delphi",
+"start": 513.416,
+"dur": 8.51,
+"ro": "Sparta walon ne Delphi ke mandir se mashwara maanga, jahan ki pujaaran ki peshgoiyon par poora Yunan yaqeen karta tha."
+},
+{
+"i": 48,
+"tag": "delphi",
+"start": 523.176,
+"dur": 9.158,
+"ro": "Jawaab dara dene wala tha. Ya to Sparta ka shehar tabaah hoga, ya Sparta apne ek badshah ka maatam karega."
+},
+{
+"i": 49,
+"tag": "delphi",
+"start": 533.584,
+"dur": 8.702,
+"ro": "Leonidas ne yeh peshgoi suni, aur khamosh raha. Shayad woh usi din samajh gaya tha ke woh badshah kaun hoga."
+},
+{
+"i": 50,
+"tag": "sparta_council",
+"start": 544.436,
+"dur": 10.19,
+"ro": "Magar ek masla tha. Yeh Carneia ke mazhabi tehwaar ke din the, aur is dauraan Sparta ki fauj jang ke liye nahin nikal sakti thi."
+},
+{
+"i": 51,
+"tag": "sparta_council",
+"start": 555.876,
+"dur": 9.998,
+"ro": "Shehar ke buzurgon ne kaha, tehwaar khatam hone do, phir poori fauj jaayegi. Magar tab tak Faras ki fauj Yunan ke beech pahunch chuki hoti."
+},
+{
+"i": 52,
+"tag": "sparta_council",
+"start": 567.124,
+"dur": 9.422,
+"ro": "Tab Leonidas ne faisla kiya. Woh apne zaati muhaafizon ko le kar abhi jaayega. Sirf teen sau aadmi."
+},
+{
+"i": 53,
+"tag": "sparta_council",
+"start": 577.796,
+"dur": 8.702,
+"ro": "Aur us ne un teen sau ko chunte waqt ek shart rakhi. Sirf wohi aadmi jaayenge jin ke ghar mein beta maujood ho."
+},
+{
+"i": 54,
+"tag": "sparta_council",
+"start": 587.748,
+"dur": 9.11,
+"ro": "Taake jab woh wapas na aayein, to un ka khandaan khatam na ho. Leonidas jaanta tha ke yeh waapsi ka safar nahin hai."
+},
+{
+"i": 55,
+"tag": "sparta_home",
+"start": 599.008,
+"dur": 10.982,
+"ro": "Jaane se pehle Gorgo ne poochha, mere liye kya hukm hai? Leonidas ne kaha, kisi achhe aadmi se shaadi karna, aur achhe bachche paida karna."
+},
+{
+"i": 56,
+"tag": "sparta_city",
+"start": 612.14,
+"dur": 8.51,
+"ro": "Agli subah teen sau Spartan shehar se nikle. Auratein, bachche aur boodhe khamoshi se unhein jaata dekhte rahe."
+},
+{
+"i": 57,
+"tag": "greek_march",
+"start": 625.0,
+"dur": 10.646,
+"ro": "Raaste mein doosre Yunani shehron ke sipahi bhi saath milte gaye. Thespiae se saat sau, Thebes se chaar sau, aur kai doosre shehron se daste."
+},
+{
+"i": 58,
+"tag": "greek_march",
+"start": 636.896,
+"dur": 6.974,
+"ro": "Kul mila kar taqreeban saat hazaar Yunani. Un ke saamne laakhon ki fauj thi."
+},
+{
+"i": 59,
+"tag": "greek_march",
+"start": 645.12,
+"dur": 8.918,
+"ro": "Khule maidan mein yeh muqabla ek ghanta bhi na chalta. Is liye Leonidas ne maidan nahin, ek tang raasta chuna."
+},
+{
+"i": 60,
+"tag": "pass_wall",
+"start": 656.188,
+"dur": 7.454,
+"ro": "Thermopylae ka matlab hai garam darwaaze. Yahan pahaaron se garam paani ke chashme behte the."
+},
+{
+"i": 61,
+"tag": "pass_wall",
+"start": 664.892,
+"dur": 9.83,
+"ro": "Shimaal se junoobi Yunan aane ka yahi ek bada raasta tha. Aur is ke sab se tang hisse mein sadak sirf pandrah bees meter chaudi thi."
+},
+{
+"i": 62,
+"tag": "pass_wall",
+"start": 675.972,
+"dur": 8.318,
+"ro": "Wahan ek purani tooti hui patthar ki deewar thi. Yunaniyon ne din raat lag kar use dobaara khada kiya."
+},
+{
+"i": 63,
+"tag": "pass_wall",
+"start": 685.54,
+"dur": 11.39,
+"ro": "Leonidas ka mansooba saada tha. Is tang jagah mein dushman ki ginti be-maani ho jaayegi. Ek waqt mein sirf chand aadmi hi lad sakenge."
+},
+{
+"i": 64,
+"tag": "pass_wall",
+"start": 698.18,
+"dur": 5.342,
+"ro": "Aur aamne saamne ki ladaai mein Spartan duniya ke behtareen sipahi the."
+},
+{
+"i": 65,
+"tag": "pass_wall",
+"start": 704.772,
+"dur": 11.798,
+"ro": "Aaj agar aap Thermopylae jaayein, to wahan koi tang raasta nazar nahin aayega. Dhaai hazaar saal mein daryaon ki mitti ne samandar ko kai kilometer peechhe dhakel diya hai."
+},
+{
+"i": 66,
+"tag": "pass_wall",
+"start": 717.82,
+"dur": 9.206,
+"ro": "Magar us zamane mein, yahan chataanon aur lehron ke beech ek aisa darwaaza tha, jise band kar diya jaaye to poora Yunan mehfooz ho jaata."
+},
+{
+"i": 67,
+"tag": "pass_wall",
+"start": 728.276,
+"dur": 10.214,
+"ro": "Magar maqami logon ne ek khatre ki khabar di. Pahaaron ke oopar se ek pagdandi guzarti thi, jo is raaste ke peechhe ja nikalti thi."
+},
+{
+"i": 68,
+"tag": "pass_wall",
+"start": 739.74,
+"dur": 6.614,
+"ro": "Leonidas ne Phocis shehar ke ek hazaar sipahi us pagdandi ki hifaazat par laga diye."
+},
+{
+"i": 69,
+"tag": "salamis",
+"start": 748.504,
+"dur": 8.894,
+"ro": "Usi waqt, qareeb hi samandar mein, Athens ki qiyaadat mein Yunani jahaz Artemisium ke paas Faras ke bede ka raasta roke khade the."
+},
+{
+"i": 70,
+"tag": "salamis",
+"start": 758.648,
+"dur": 8.846,
+"ro": "Agar khushki ka raasta khulta, ya samandar ka, to Yunan khatam tha. Donon darwaazon ko ek saath band rakhna tha."
+},
+{
+"i": 71,
+"tag": "salamis",
+"start": 768.744,
+"dur": 9.95,
+"ro": "Aur qudrat ne bhi Yunan ka saath diya. Ek zabardast toofan aaya, aur Faras ke saikdon jahaz chataanon se takra kar doob gaye."
+},
+{
+"i": 72,
+"tag": "persian_camp",
+"start": 783.044,
+"dur": 6.686,
+"ro": "Phir ek din, ufaq par gard ka toofan utha. Faras ki fauj aa pahunchi thi."
+},
+{
+"i": 73,
+"tag": "persian_camp",
+"start": 790.98,
+"dur": 8.438,
+"ro": "Khaimon ka ek shehar bas gaya. Meelon tak aag ke alaao, ghode, oont, aur har rang aur har zabaan ke sipahi."
+},
+{
+"i": 74,
+"tag": "persian_throne",
+"start": 801.568,
+"dur": 8.222,
+"ro": "Xerxes ek oonchi jagah par apna takht laga kar baith gaya, taake woh Yunaniyon ki tabaahi apni aankhon se dekh sake."
+},
+{
+"i": 75,
+"tag": "persian_throne",
+"start": 811.04,
+"dur": 9.038,
+"ro": "Use yaqeen tha ke itni badi fauj dekh kar yeh mutthi bhar log khud hi bhaag jaayenge. Us ne chaar din intezaar kiya."
+},
+{
+"i": 76,
+"tag": "pass_wait",
+"start": 822.228,
+"dur": 7.43,
+"ro": "Us ne ek ghudsawaar jasoos bheja. Jasoos ne wapas aa kar ajeeb manzar bataya."
+},
+{
+"i": 77,
+"tag": "pass_wait",
+"start": 830.908,
+"dur": 7.622,
+"ro": "Spartan deewar ke saamne aaraam se warzish kar rahe the, aur kuchh baithe apne lambe baal sanwaar rahe the."
+},
+{
+"i": 78,
+"tag": "persian_throne",
+"start": 840.68,
+"dur": 11.342,
+"ro": "Xerxes hans pada. Magar us ke darbaar mein ek jalawatan Spartan badshah Demaratus bhi tha. Us ne kaha, hansiye mat, Jahan Panah."
+},
+{
+"i": 79,
+"tag": "persian_throne",
+"start": 853.272,
+"dur": 9.422,
+"ro": "Spartan jab maut se ladne ka iraada karte hain, to isi tarah apne baal sanwaarte hain. Yeh log bhaagne nahin, marne aaye hain."
+},
+{
+"i": 80,
+"tag": "pass_wait",
+"start": 864.844,
+"dur": 7.982,
+"ro": "Xerxes ne ek aakhri paigham bheja. Apne hathiyaar daal do, aur tumhein zinda chhod diya jaayega."
+},
+{
+"i": 81,
+"tag": "pass_wait",
+"start": 874.076,
+"dur": 8.174,
+"ro": "Leonidas ka jawaab do lafzon ka tha, jo aaj bhi duniya mein dohraya jaata hai. Aao, aur khud le lo."
+},
+{
+"i": 82,
+"tag": "pass_wait",
+"start": 883.5,
+"dur": 7.19,
+"ro": "Ek Yunani ne dar kar kaha, Faras ke teerandaaz itne hain ke un ke teer sooraj ko chhupa denge."
+},
+{
+"i": 83,
+"tag": "pass_wait",
+"start": 891.94,
+"dur": 8.15,
+"ro": "Spartan sipahi Dienekes muskuraya aur bola, yeh to achhi khabar hai. Phir hum saaye mein ladenge."
+},
+{
+"i": 84,
+"tag": "pass_wait",
+"start": 901.34,
+"dur": 9.326,
+"ro": "Yunani camp mein kuchh sardaar dar gaye the. Unhon ne kaha, humein peechhe hat kar junoob mein Corinth ke paas difaa karna chahiye."
+},
+{
+"i": 85,
+"tag": "pass_wait",
+"start": 911.916,
+"dur": 11.414,
+"ro": "Magar Leonidas ne inkaar kar diya. Agar hum yeh darwaaza chhod dein, to peechhe ke saare shehar Faras ke qadmon mein honge. Hum yahin rahenge."
+},
+{
+"i": 86,
+"tag": "battle_day",
+"start": 927.68,
+"dur": 8.726,
+"ro": "Paanchwein din Xerxes ka sabr khatam ho gaya. Us ne hukm diya, in sab ko zinda pakad kar mere saamne laao."
+},
+{
+"i": 87,
+"tag": "battle_day",
+"start": 937.656,
+"dur": 8.462,
+"ro": "Sab se pehle Media ke sipahi aage badhe. Hazaaron ki tadaad mein, cheekhte hue, us tang raaste mein ghus aaye."
+},
+{
+"i": 88,
+"tag": "battle_day",
+"start": 947.368,
+"dur": 10.43,
+"ro": "Spartan ne apni mashhoor saf banaai. Phalanx. Dhaal se dhaal judi hui, aur un ke peechhe se aage nikalte hue neze."
+},
+{
+"i": 89,
+"tag": "battle_day",
+"start": 959.048,
+"dur": 9.83,
+"ro": "Yeh ek kaansi ki deewar thi jo chalti thi. Faras ke sipahiyon ki chhoti bed ki dhaalein aur chhote neze us ke saamne be-bas the."
+},
+{
+"i": 90,
+"tag": "battle_day",
+"start": 970.128,
+"dur": 5.006,
+"ro": "Lehar ke baad lehar aayi, aur lehar ke baad lehar toot kar wapas gayi."
+},
+{
+"i": 91,
+"tag": "battle_day",
+"start": 976.384,
+"dur": 10.286,
+"ro": "Spartan ki dhaal bhaari thi, taqreeban aath kilo ki. Use utha kar ghanton ladna wohi kar sakta tha jis ne bachpan se yahi kiya ho."
+},
+{
+"i": 92,
+"tag": "battle_day",
+"start": 987.92,
+"dur": 10.646,
+"ro": "Jab agli saf ka koi sipahi thak jaata, to peechhe wala aage aa jaata. Deewar kabhi tootti nahin thi, bas us ki eentein badalti rehti theen."
+},
+{
+"i": 93,
+"tag": "battle_day",
+"start": 999.816,
+"dur": 7.286,
+"ro": "Spartan ek chaal bhi chalte the. Woh achaanak peechhe hatte, jaise dar kar bhaag rahe hon."
+},
+{
+"i": 94,
+"tag": "battle_day",
+"start": 1008.352,
+"dur": 9.23,
+"ro": "Dushman khushi se be-tarteeb ho kar peechhe daudta. Aur tab Spartan ek dam mudte, aur saf phir se deewar ban jaati."
+},
+{
+"i": 95,
+"tag": "battle_day",
+"start": 1018.832,
+"dur": 6.998,
+"ro": "Shaam tak Xerxes ne apne sab se bade hathiyaar ko bheja. Das hazaar Amar."
+},
+{
+"i": 96,
+"tag": "battle_day",
+"start": 1027.08,
+"dur": 8.366,
+"ro": "Magar is tang jagah mein Amar bhi aam sipahiyon ki tarah girne lage. Un ki ginti yahan kisi kaam ki nahin thi."
+},
+{
+"i": 97,
+"tag": "battle_day",
+"start": 1036.696,
+"dur": 7.694,
+"ro": "Shaam hui to raaste mein laashon ke dher the. Aur Yunaniyon ke sirf chand aadmi zakhmi hue the."
+},
+{
+"i": 98,
+"tag": "persian_throne",
+"start": 1046.54,
+"dur": 8.174,
+"ro": "Herodotus likhta hai ke us din apni fauj ko katte dekh kar Xerxes teen baar ghabra kar apne takht se uth khada hua."
+},
+{
+"i": 99,
+"tag": "battle_night",
+"start": 1059.064,
+"dur": 9.902,
+"ro": "Raat hui. Yunani camp mein thake hue sipahi zakhmon par pattiyan baandh rahe the. Magar un ke hausle buland the."
+},
+{
+"i": 100,
+"tag": "battle_night",
+"start": 1070.216,
+"dur": 9.014,
+"ro": "Leonidas ne mukhtalif shehron ke daston ko baari baari ladaane ka intezaam kiya tha, taake koi ek dasta mukammal thak na jaaye."
+},
+{
+"i": 101,
+"tag": "battle_night",
+"start": 1080.481,
+"dur": 14.246,
+"ro": "Leonidas raat ko aag ke paas baithe apne sipahiyon ke beech se guzarta. Kisi ke kandhe par haath rakhta, kisi ka haal poochhta. Woh un ka badshah bhi tha, aur un jaisa ek sipahi bhi."
+},
+{
+"i": 102,
+"tag": "battle_day",
+"start": 1096.877,
+"dur": 8.414,
+"ro": "Doosre din Xerxes ne socha, Yunani ab zakhmi aur thake hue honge. Us ne phir hamle ka hukm diya."
+},
+{
+"i": 103,
+"tag": "battle_day",
+"start": 1106.541,
+"dur": 7.19,
+"ro": "Us ne inaam ka elaan kiya, aur peechhe kode wale khade kiye, taake koi sipahi peechhe na hate."
+},
+{
+"i": 104,
+"tag": "battle_day",
+"start": 1114.981,
+"dur": 8.654,
+"ro": "Magar doosra din bhi pehle din jaisa tha. Laashon ke dher badhte gaye, aur Yunani deewar apni jagah khadi rahi."
+},
+{
+"i": 105,
+"tag": "persian_throne",
+"start": 1125.785,
+"dur": 10.214,
+"ro": "Shaam ko Xerxes apne khaime mein baitha tha. Duniya ka sab se taaqatwar badshah, aur chand hazaar aadmiyon ne us ka raasta rok rakha tha."
+},
+{
+"i": 106,
+"tag": "persian_night",
+"start": 1140.349,
+"dur": 7.862,
+"ro": "Aur tab ek Yunani aadmi khamoshi se Faras ke camp mein aaya. Us ka naam tha Ephialtes."
+},
+{
+"i": 107,
+"tag": "persian_night",
+"start": 1149.461,
+"dur": 8.366,
+"ro": "Woh ek maqami charwaha tha, aur woh inaam ke laalach mein aaya tha. Us ne kaha, main ek raasta jaanta hoon."
+},
+{
+"i": 108,
+"tag": "persian_night",
+"start": 1159.077,
+"dur": 5.198,
+"ro": "Yeh wohi pahaari pagdandi thi, jo Yunaniyon ke peechhe ja nikalti thi."
+},
+{
+"i": 109,
+"tag": "persian_night",
+"start": 1165.525,
+"dur": 8.27,
+"ro": "Xerxes ki aankhein chamak uthin. Us ne fauran apne Amar sipahiyon ke sardaar Hydarnes ko bulaya."
+},
+{
+"i": 110,
+"tag": "persian_night",
+"start": 1175.045,
+"dur": 10.694,
+"ro": "Ephialtes ka naam Yunan mein hamesha ke liye ghaddaari ka doosra naam ban gaya. Aaj bhi Yunani zabaan mein us ke naam ka matlab hai, daraawna khwaab."
+},
+{
+"i": 111,
+"tag": "goat_path",
+"start": 1187.889,
+"dur": 5.966,
+"ro": "Usi raat Amar sipahi mash'alein le kar Ephialtes ke peechhe pahaaron mein chal pade."
+},
+{
+"i": 112,
+"tag": "goat_path",
+"start": 1195.105,
+"dur": 8.246,
+"ro": "Saari raat woh jangal aur chataanon ke beech chadhte rahe. Subah hone se pehle woh pahaar ki choti par the."
+},
+{
+"i": 113,
+"tag": "goat_path",
+"start": 1204.601,
+"dur": 9.446,
+"ro": "Wahan Phocis ke sipahi pehra de rahe the. Raat ki khamoshi mein unhon ne sookhe patton par hazaaron qadmon ki aawaz suni."
+},
+{
+"i": 114,
+"tag": "goat_path",
+"start": 1215.297,
+"dur": 6.662,
+"ro": "Woh ghabra kar qareeb ki ek pahaari par chadh gaye, yeh soch kar ke dushman unhein hi maarne aaya hai."
+},
+{
+"i": 115,
+"tag": "goat_path",
+"start": 1223.209,
+"dur": 8.534,
+"ro": "Magar Amar un par waqt zaaya kiye baghair aage nikal gaye. Ab un ke aur Yunaniyon ki pusht ke beech koi nahin tha."
+},
+{
+"i": 116,
+"tag": "spartan_camp_night",
+"start": 1236.093,
+"dur": 7.598,
+"ro": "Raat ke aakhri pehar Yunani camp mein ek daudta hua qaasid pahuncha. Humein ghera ja raha hai."
+},
+{
+"i": 117,
+"tag": "spartan_camp_night",
+"start": 1244.941,
+"dur": 9.446,
+"ro": "Pujaari Megistias ne qurbani ke baad kaha tha, kal subah maut hamara intezaar kar rahi hai. Ab woh baat sach ho rahi thi."
+},
+{
+"i": 118,
+"tag": "spartan_camp_night",
+"start": 1255.637,
+"dur": 7.406,
+"ro": "Leonidas ne sardaaron ko jama kiya. Kuchh ne kaha lado, kuchh ne kaha peechhe hat jaao."
+},
+{
+"i": 119,
+"tag": "spartan_camp_night",
+"start": 1264.293,
+"dur": 7.862,
+"ro": "Leonidas ne faisla kiya. Baaqi sab wapas chale jaayein, aur agli jangon ke liye zinda rahein."
+},
+{
+"i": 120,
+"tag": "spartan_camp_night",
+"start": 1273.405,
+"dur": 12.398,
+"ro": "Yunani daste raat ke andhere mein junoob ki taraf rawaana hone lage. Jaate hue kai sipahi mud mud kar un aag ke alaao ko dekhte rahe, jin ke gird teen sau baithe the."
+},
+{
+"i": 121,
+"tag": "spartan_camp_night",
+"start": 1287.053,
+"dur": 7.79,
+"ro": "Magar Spartan nahin jaayenge. Sparta ka qanoon tha ke Spartan apni jagah nahin chhodta."
+},
+{
+"i": 122,
+"tag": "spartan_camp_night",
+"start": 1296.093,
+"dur": 6.854,
+"ro": "Aur koi peechhe bhi to rehna tha, taake peechhe hatti fauj ko dushman ke ghudsawaar na kaat daalein."
+},
+{
+"i": 123,
+"tag": "spartan_camp_night",
+"start": 1304.197,
+"dur": 9.47,
+"ro": "Thespiae ke saat sau sipahiyon ne jaane se inkaar kar diya. Un ke sardaar ne kaha, hum Leonidas ko akela nahin chhodenge."
+},
+{
+"i": 124,
+"tag": "spartan_camp_night",
+"start": 1314.917,
+"dur": 6.734,
+"ro": "Un ka naam tareekh mein kam liya jaata hai, magar woh bhi aakhir tak Spartan ke saath khade rahe."
+},
+{
+"i": 125,
+"tag": "spartan_camp_night",
+"start": 1322.901,
+"dur": 8.414,
+"ro": "Pujaari Megistias ne bhi jaane se inkaar kar diya. Us ne sirf apne iklaute bete ko wapas bhej diya."
+},
+{
+"i": 126,
+"tag": "spartan_camp_night",
+"start": 1332.565,
+"dur": 10.766,
+"ro": "Subah hui. Leonidas ne apne aadmiyon se kaha, achhi tarah naashta kar lo. Aaj raat ka khana hum doosri duniya mein khaayenge."
+},
+{
+"i": 127,
+"tag": "last_stand",
+"start": 1347.681,
+"dur": 8.678,
+"ro": "Is aakhri din Leonidas deewar ke peechhe nahin raha. Woh apne aadmiyon ko le kar aage, khuli jagah mein nikal aaya."
+},
+{
+"i": 128,
+"tag": "last_stand",
+"start": 1357.609,
+"dur": 8.39,
+"ro": "Ab bachne ka sawaal hi nahin tha. Ab sirf yeh tha ke marne se pehle dushman ko kitni qeemat chukaani padegi."
+},
+{
+"i": 129,
+"tag": "last_stand",
+"start": 1367.249,
+"dur": 11.966,
+"ro": "Faras ke afsar apne sipahiyon ko kode maar maar kar aage dhakel rahe the. Bohat se samandar mein gir kar doob gaye, bohat se apne hi saathiyon ke pairon tale kuchle gaye."
+},
+{
+"i": 130,
+"tag": "last_stand",
+"start": 1380.465,
+"dur": 6.686,
+"ro": "Spartan ke neze ek ek kar ke toot gaye. Tab unhon ne talwaarein nikaal leen."
+},
+{
+"i": 131,
+"tag": "last_stand",
+"start": 1388.401,
+"dur": 10.694,
+"ro": "Spartan talwaar chhoti hoti thi, bilkul qareeb ki ladaai ke liye. Aur ab ladaai itni qareeb thi ke sipahi ek doosre ki saansein sun sakte the."
+},
+{
+"i": 132,
+"tag": "last_stand",
+"start": 1400.345,
+"dur": 6.23,
+"ro": "Aur isi ladaai mein, apne aadmiyon ke aage ladte hue, badshah Leonidas gir gaya."
+},
+{
+"i": 133,
+"tag": "last_stand",
+"start": 1407.825,
+"dur": 8.846,
+"ro": "Delphi ki peshgoi poori ho chuki thi. Sparta ne apna ek badshah kho diya tha, taake Sparta bach jaaye."
+},
+{
+"i": 134,
+"tag": "last_stand",
+"start": 1417.921,
+"dur": 11.126,
+"ro": "Us ki laash ke liye khaufnaak ladaai hui. Spartan ne chaar baar dushman ko peechhe dhakela, aur aakhir kaar apne badshah ki laash chheen kar le aaye."
+},
+{
+"i": 135,
+"tag": "last_stand",
+"start": 1430.297,
+"dur": 4.454,
+"ro": "Isi ladaai mein Xerxes ke apne do bhai bhi maare gaye."
+},
+{
+"i": 136,
+"tag": "last_stand",
+"start": 1436.001,
+"dur": 6.902,
+"ro": "Phir khabar aayi ke Amar peechhe se aa pahunche hain. Ab woh donon taraf se ghir chuke the."
+},
+{
+"i": 137,
+"tag": "last_stand",
+"start": 1444.153,
+"dur": 10.91,
+"ro": "Thebes ke sipahiyon ne is aakhri lamhe hathiyaar daal diye, aur haath utha kar dushman ki taraf badh gaye. Magar Spartan aur Thespian wahin date rahe."
+},
+{
+"i": 138,
+"tag": "last_stand",
+"start": 1456.313,
+"dur": 8.942,
+"ro": "Bache khuche Yunani deewar ke peechhe ek chhote se teele par jama ho gaye. Wahan unhon ne aakhri gol daaira banaya."
+},
+{
+"i": 139,
+"tag": "last_stand",
+"start": 1466.505,
+"dur": 7.646,
+"ro": "Jin ki talwaarein toot gayin, woh khanjaron se lade. Jin ke khanjar toot gaye, woh haathon se lade."
+},
+{
+"i": 140,
+"tag": "last_stand",
+"start": 1475.401,
+"dur": 6.926,
+"ro": "Aakhir kaar Xerxes ne hukm diya ke koi aage na jaaye. Sirf teer chalaao."
+},
+{
+"i": 141,
+"tag": "last_stand",
+"start": 1483.577,
+"dur": 8.582,
+"ro": "Aur aasmaan sach much teeron se bhar gaya. Dienekes ki baat poori ho gayi. Woh saaye mein lade."
+},
+{
+"i": 142,
+"tag": "last_stand",
+"start": 1493.409,
+"dur": 4.838,
+"ro": "Jab teeron ki baarish ruki, to us teele par koi khada nahin tha."
+},
+{
+"i": 143,
+"tag": "last_stand",
+"start": 1499.497,
+"dur": 7.646,
+"ro": "Teen din. Teen din tak chand hazaar aadmiyon ne duniya ki sab se badi fauj ko roke rakha tha."
+},
+{
+"i": 144,
+"tag": "persian_throne",
+"start": 1511.493,
+"dur": 10.262,
+"ro": "Kehte hain Xerxes Leonidas par itna ghusse mein tha ke us ne us ki laash ki be-hurmati ka hukm diya. Faras mein yeh baat aam nahin thi."
+},
+{
+"i": 145,
+"tag": "persian_throne",
+"start": 1523.005,
+"dur": 6.278,
+"ro": "Shayad is liye ke is ek aadmi ne duniya ke saamne us ki taaqat ka bharam tod diya tha."
+},
+{
+"i": 146,
+"tag": "persian_march",
+"start": 1531.433,
+"dur": 5.678,
+"ro": "Xerxes ki fauj aage badhi. Raasta ab khula tha."
+},
+{
+"i": 147,
+"tag": "aftermath_athens",
+"start": 1539.261,
+"dur": 11.006,
+"ro": "Woh Athens pahuncha aur use khaali paaya. Shehar ke log pehle hi jaziron par bhaag chuke the. Xerxes ne Athens ko aag laga di."
+},
+{
+"i": 148,
+"tag": "aftermath_athens",
+"start": 1551.517,
+"dur": 6.782,
+"ro": "Aisa lagta tha ke Leonidas ki qurbani bekaar gayi. Magar aisa nahin tha."
+},
+{
+"i": 149,
+"tag": "aftermath_athens",
+"start": 1559.549,
+"dur": 8.054,
+"ro": "Thermopylae ke un teen dinon ne Yunani shehron ko waqt diya tha. Aur us se bhi badh kar, ek yaqeen diya tha."
+},
+{
+"i": 150,
+"tag": "aftermath_athens",
+"start": 1568.853,
+"dur": 6.494,
+"ro": "Ke Faras ki fauj ko roka ja sakta hai. Ke ginti hi sab kuchh nahin hoti."
+},
+{
+"i": 151,
+"tag": "salamis",
+"start": 1577.497,
+"dur": 8.342,
+"ro": "Chand hafte baad Salamis ke tang samandar mein Yunani jahazon ne wohi chaal chali, jo Leonidas ne khushki par chali thi."
+},
+{
+"i": 152,
+"tag": "salamis",
+"start": 1587.089,
+"dur": 9.254,
+"ro": "Faras ka bada beda us tang jagah mein phans gaya, aur tabaah ho gaya. Xerxes ek pahaari par baitha yeh sab dekhta raha."
+},
+{
+"i": 153,
+"tag": "salamis",
+"start": 1597.593,
+"dur": 4.334,
+"ro": "Is ke baad Xerxes khud Asia wapas chala gaya."
+},
+{
+"i": 154,
+"tag": "plataea",
+"start": 1604.077,
+"dur": 7.142,
+"ro": "Agle saal, Plataea ke maidan mein, Yunani shehar pehli baar mil kar ek badi fauj ki soorat mein utre."
+},
+{
+"i": 155,
+"tag": "plataea",
+"start": 1612.469,
+"dur": 6.59,
+"ro": "Aur us fauj ke aage Sparta ke sipahi the, jin ke dilon mein Leonidas ka badla tha."
+},
+{
+"i": 156,
+"tag": "plataea",
+"start": 1620.309,
+"dur": 12.134,
+"ro": "In mein ek sipahi Aristodemus bhi tha. Thermopylae mein aankhon ki beemari ki wajah se use wapas bhej diya gaya tha. Woh teen sau mein se akela bacha tha."
+},
+{
+"i": 157,
+"tag": "plataea",
+"start": 1633.693,
+"dur": 7.886,
+"ro": "Sparta mein sab use buzdil kehte the. Koi use aag tak na deta, koi us se baat na karta."
+},
+{
+"i": 158,
+"tag": "plataea",
+"start": 1642.829,
+"dur": 11.438,
+"ro": "Plataea mein woh saf tod kar deewaanon ki tarah dushman par toot pada, aur ladte ladte maara gaya. Woh saabit karna chahta tha ke woh bhi un teen sau mein se tha."
+},
+{
+"i": 159,
+"tag": "plataea",
+"start": 1655.517,
+"dur": 9.374,
+"ro": "Ek aur Spartan, Pantites, ko Leonidas ne paigham de kar shimaal bheja tha. Woh jang khatam hone ke baad wapas pahuncha."
+},
+{
+"i": 160,
+"tag": "plataea",
+"start": 1666.141,
+"dur": 11.342,
+"ro": "Sparta mein us se bhi sab ne munh mod liya. Woh yeh sharm bardasht na kar saka. Sparta mein zinda lautna, shikast se badi saza thi."
+},
+{
+"i": 161,
+"tag": "plataea",
+"start": 1678.733,
+"dur": 9.23,
+"ro": "Faras ki fauj ko faisla kun shikast hui. Aur us ke baad Faras ki koi fauj phir kabhi Yunan par hamla karne nahin aayi."
+},
+{
+"i": 162,
+"tag": "epitaph",
+"start": 1692.313,
+"dur": 8.918,
+"ro": "Baad mein Thermopylae ke us teele par ek patthar nasb kiya gaya. Us par shaayar Simonides ke do jumle likhe the."
+},
+{
+"i": 163,
+"tag": "epitaph",
+"start": 1702.481,
+"dur": 6.782,
+"ro": "Ae raahgeer, Sparta walon ko ja kar bata dena, ke hum yahan un ke hukm ki tameel mein pade hain."
+},
+{
+"i": 164,
+"tag": "epitaph",
+"start": 1710.513,
+"dur": 8.438,
+"ro": "Chaalees saal baad Leonidas ki haddiyan Sparta wapas laai gayin, aur har saal us ki yaad mein khel munaqqid hote rahe."
+},
+{
+"i": 165,
+"tag": "epitaph",
+"start": 1720.201,
+"dur": 8.246,
+"ro": "Dhaai hazaar saal guzar gaye. Faras ki saltanat mit gayi, Sparta ke khandar bhi mitti mein mil gaye."
+},
+{
+"i": 166,
+"tag": "epitaph",
+"start": 1729.697,
+"dur": 12.422,
+"ro": "Aaj Thermopylae mein Leonidas ka kaansi ka mujassama khada hai. Us ke neeche wohi do lafz likhe hain, jo us ne Xerxes ko bheje the. Aao, aur khud le lo."
+},
+{
+"i": 167,
+"tag": "epitaph",
+"start": 1743.369,
+"dur": 10.118,
+"ro": "Duniya bhar mein faujein is jang ko padhti hain. Yeh ke sahi jagah aur sahi hausle ke saath thode log bhi bohat badi taaqat ko rok sakte hain."
+},
+{
+"i": 168,
+"tag": "epitaph",
+"start": 1754.737,
+"dur": 10.31,
+"ro": "Magar teen sau ki kahani aaj bhi zinda hai. Kyunke kabhi kabhi tareekh woh nahin yaad rakhti jo jeeta, balke woh jo aakhir tak khada raha."
+},
+{
+"i": 169,
+"tag": "pass_dawn",
+"start": 1767.197,
+"dur": 11.03,
+"ro": "Yeh thi kahani Leonidas aur teen sau ki. Agar kahani pasand aayi, to channel ko subscribe karein. Har peer, ek nayi daastaan."
+}
+]
+}
